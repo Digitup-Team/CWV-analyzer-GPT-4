@@ -8,8 +8,3 @@
 2. cd ../client && npm install && npm start
 3. Navigate to http://localhost:3000
 
-## Additional Notes
-- If using Firebase, install firebase-admin and initialize it in server.js.
-- If deploying, adjust the /api/analyze URL to match your server domain.
-
-Enjoy!
